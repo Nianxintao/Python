@@ -16,6 +16,6 @@ while i <= 100:
      #   square_of_some = sum * sum
     square_of_sum = sum * sum
     # diff =
-    diff = square_of_sum-sum_of_squares
-print(diff )
+    dif = square_of_sum-sum_of_squares
+print(dif)
 
